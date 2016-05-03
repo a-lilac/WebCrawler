@@ -1,0 +1,4 @@
+*.class
+*.jdb
+*.DS_Store
+.project
